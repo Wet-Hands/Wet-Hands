@@ -1,2 +1,1 @@
-## Hi there 👋
-![Visitor Count](https://profile-counter.glitch.me/Wet-Hands/count.svg)
+![GitHub contribution graph](https://github-readme-insight-terminal-asci.vercel.app/svg/graph?user=Wet-Hands&theme=winxp)
